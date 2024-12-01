@@ -30,9 +30,9 @@
   <a href="https://velog.io/@lkn7634">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
-  <a href="lkn7634@naver.com">
+   <a href="mailto:lnam061@gmail.com">
     <img
-      src="https://img.shields.io/badge/lkn7634@naver.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/lnam061@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
   <a href="https://www.instagram.com/leeeee__kkyeong/">
     <img
