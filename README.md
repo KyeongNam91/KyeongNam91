@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+KyeongNam's+Github)](https://git.io/typing-svg)
-
+![image](https://github.com/user-attachments/assets/c61032c7-870f-4aae-9975-34c463fc3a67)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyeongNam91&hide=contribs,prs&show_icons=true&theme=graywhite)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KyeongNam91)
 
